@@ -1,5 +1,5 @@
 # PICO-8-Rat-Game
-Rat game created in PICO-8, originally designed within 72 hours for the game jam Lame Jam 32, then updated after the deadline to act on feedback. The games are available on itch.io, currently playable through browser:
+Rat game created in PICO-8, originally designed and programmed within 72 hours for an online game jam, then updated after the deadline to act on feedback. The games are available on itch.io, currently playable through browser:
 1. The game in its game jam form: https://smalls14.itch.io/rat-cave
 2. The updated game: https://smalls14.itch.io/rat-cave-dx
 
